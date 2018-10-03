@@ -1,7 +1,6 @@
 ---
-title: "Maths Skills 2 (Statistics) assessment"
-author: ""
-date: "5 April 2018"
+title: "London Crime"
+author: "Nikhil Atkinson"
 output:
   pdf_document: default
   html_document:
