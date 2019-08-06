@@ -1,5 +1,5 @@
 # Document contents
-- Wrangling the data
+- Data preparation
 - Data visualization
 - Analysis and results of the data
 
